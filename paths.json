@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/rayueTEST/:/",
-    "/content/rayueTEST/configuration:/.helix/config.json",
-    "/content/rayueTEST/metadata:/metadata.json"
+    "/content/Test_EdgeDelivery/:/",
+    "/content/Test_EdgeDelivery/configuration:/.helix/config.json",
+    "/content/Test_EdgeDelivery/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/rayueTEST/"
+    "/content/Test_EdgeDelivery/"
   ]
 }
